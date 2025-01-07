@@ -1,0 +1,565 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NewDataSet>
+    <Name>SavedScans</Name>
+    <Type>Flux</Type>
+    <User />
+    <Comment />
+    <System />
+    <Units>W/nm</Units>
+  </NewDataSet>
+  <Lamp StabilizeTime="">N/A</Lamp>
+  <ScanData ScanNum="1">
+    <Exposure>789</Exposure>
+    <ScanAverage>5</ScanAverage>
+    <DateTime>18/11/2024 03:26:04 p.m.</DateTime>
+    <MethodName>NuMethod</MethodName>
+    <Illuminant>E</Illuminant>
+    <DerivedData>
+      <Rflux>2.441E00</Rflux>
+      <Lflux>8.178E02</Lflux>
+      <Slflux>1.099E03</Slflux>
+      <ChromX>0.4329</ChromX>
+      <ChromY>0.4107</ChromY>
+      <ChromU>0.2452</ChromU>
+      <ChromV>0.3489</ChromV>
+      <Duv>0.0027</Duv>
+      <Uprime>0.2452</Uprime>
+      <Vprime>0.5233</Vprime>
+      <CCT>3119.0</CCT>
+      <Purity>53.2</Purity>
+      <DomWL>581.2</DomWL>
+      <FWHM>133.2</FWHM>
+      <PeakWL>599.6</PeakWL>
+      <CenterWL>587.9</CenterWL>
+      <CentroidWL>579.3</CentroidWL>
+      <SDCM>88 F 6500</SDCM>
+      <CRI>
+        <Ra>80.4395797675649</Ra>
+        <CorrCoef>0.00320793023928484</CorrCoef>
+        <Correlation>0.0054</Correlation>
+        <R1>77.4</R1>
+        <R2>87.5</R2>
+        <R3>97</R3>
+        <R4>79.2</R4>
+        <R5>77.9</R5>
+        <R6>84.8</R6>
+        <R7>83.3</R7>
+        <R8>56.4</R8>
+        <R9>-3.6</R9>
+        <R10>72.5</R10>
+        <R11>78.2</R11>
+        <R12>68.7</R12>
+        <R13>79.4</R13>
+        <R14>98.4</R14>
+      </CRI>
+    </DerivedData>
+    <Supply>
+      <DutAmeas>N/A</DutAmeas>
+      <DutVmeas>N/A</DutVmeas>
+    </Supply>
+    <SpectralData>
+      <DataPt WaveLen="350">9.64208566901047E-05</DataPt>
+      <DataPt WaveLen="351">0.000105581676278339</DataPt>
+      <DataPt WaveLen="352">8.99897807997324E-05</DataPt>
+      <DataPt WaveLen="353">9.75081314987682E-05</DataPt>
+      <DataPt WaveLen="354">9.78203769549838E-05</DataPt>
+      <DataPt WaveLen="355">9.19635624819548E-05</DataPt>
+      <DataPt WaveLen="356">0.00010384494292251</DataPt>
+      <DataPt WaveLen="357">9.14786140999561E-05</DataPt>
+      <DataPt WaveLen="358">8.11526156296858E-05</DataPt>
+      <DataPt WaveLen="359">9.21834592452832E-05</DataPt>
+      <DataPt WaveLen="360">8.34120851006915E-05</DataPt>
+      <DataPt WaveLen="361">8.88497089897529E-05</DataPt>
+      <DataPt WaveLen="362">9.13139050203896E-05</DataPt>
+      <DataPt WaveLen="363">9.19152037077974E-05</DataPt>
+      <DataPt WaveLen="364">0.000111533047737144</DataPt>
+      <DataPt WaveLen="365">0.000100755046263219</DataPt>
+      <DataPt WaveLen="366">8.64394691275361E-05</DataPt>
+      <DataPt WaveLen="367">8.18677352052658E-05</DataPt>
+      <DataPt WaveLen="368">8.40319082539393E-05</DataPt>
+      <DataPt WaveLen="369">7.30995506580789E-05</DataPt>
+      <DataPt WaveLen="370">8.61383112716665E-05</DataPt>
+      <DataPt WaveLen="371">8.33021408943056E-05</DataPt>
+      <DataPt WaveLen="372">7.79465879510919E-05</DataPt>
+      <DataPt WaveLen="373">8.35999184673497E-05</DataPt>
+      <DataPt WaveLen="374">7.81763953910911E-05</DataPt>
+      <DataPt WaveLen="375">7.5958463593661E-05</DataPt>
+      <DataPt WaveLen="376">8.04303784609645E-05</DataPt>
+      <DataPt WaveLen="377">8.07326373464643E-05</DataPt>
+      <DataPt WaveLen="378">7.15257043730802E-05</DataPt>
+      <DataPt WaveLen="379">8.12512701305621E-05</DataPt>
+      <DataPt WaveLen="380">7.98963002320963E-05</DataPt>
+      <DataPt WaveLen="381">7.94742783043437E-05</DataPt>
+      <DataPt WaveLen="382">6.85138641166831E-05</DataPt>
+      <DataPt WaveLen="383">6.9626819869609E-05</DataPt>
+      <DataPt WaveLen="384">7.19626137245684E-05</DataPt>
+      <DataPt WaveLen="385">7.65464382593078E-05</DataPt>
+      <DataPt WaveLen="386">8.04985192843117E-05</DataPt>
+      <DataPt WaveLen="387">7.42803656470808E-05</DataPt>
+      <DataPt WaveLen="388">7.78263419019102E-05</DataPt>
+      <DataPt WaveLen="389">7.27775790575476E-05</DataPt>
+      <DataPt WaveLen="390">7.33891949078481E-05</DataPt>
+      <DataPt WaveLen="391">7.6375862296819E-05</DataPt>
+      <DataPt WaveLen="392">7.92559240115592E-05</DataPt>
+      <DataPt WaveLen="393">8.68632035923068E-05</DataPt>
+      <DataPt WaveLen="394">8.99199873963419E-05</DataPt>
+      <DataPt WaveLen="395">9.52105679522684E-05</DataPt>
+      <DataPt WaveLen="396">9.74769170117134E-05</DataPt>
+      <DataPt WaveLen="397">9.91371557720795E-05</DataPt>
+      <DataPt WaveLen="398">0.000105104647223838</DataPt>
+      <DataPt WaveLen="399">0.000116670594383722</DataPt>
+      <DataPt WaveLen="400">0.000125553171475001</DataPt>
+      <DataPt WaveLen="401">0.000133431209801315</DataPt>
+      <DataPt WaveLen="402">0.000145545888997204</DataPt>
+      <DataPt WaveLen="403">0.000160800370942211</DataPt>
+      <DataPt WaveLen="404">0.000177104740825686</DataPt>
+      <DataPt WaveLen="405">0.000204036343748358</DataPt>
+      <DataPt WaveLen="406">0.000223643207590991</DataPt>
+      <DataPt WaveLen="407">0.000253853550291778</DataPt>
+      <DataPt WaveLen="408">0.000290900783181286</DataPt>
+      <DataPt WaveLen="409">0.000325591819804189</DataPt>
+      <DataPt WaveLen="410">0.000367562795071818</DataPt>
+      <DataPt WaveLen="411">0.000408575258397268</DataPt>
+      <DataPt WaveLen="412">0.000460665920532498</DataPt>
+      <DataPt WaveLen="413">0.000511814605512629</DataPt>
+      <DataPt WaveLen="414">0.000568650113550364</DataPt>
+      <DataPt WaveLen="415">0.000639659195879856</DataPt>
+      <DataPt WaveLen="416">0.000710508709745064</DataPt>
+      <DataPt WaveLen="417">0.000778651018956034</DataPt>
+      <DataPt WaveLen="418">0.000868027197815756</DataPt>
+      <DataPt WaveLen="419">0.000968067496705867</DataPt>
+      <DataPt WaveLen="420">0.00106177956166279</DataPt>
+      <DataPt WaveLen="421">0.00116910852294575</DataPt>
+      <DataPt WaveLen="422">0.00129413821500894</DataPt>
+      <DataPt WaveLen="423">0.00141951971995968</DataPt>
+      <DataPt WaveLen="424">0.00155465714189945</DataPt>
+      <DataPt WaveLen="425">0.00170283705550745</DataPt>
+      <DataPt WaveLen="426">0.00185802421022818</DataPt>
+      <DataPt WaveLen="427">0.0020377432855381</DataPt>
+      <DataPt WaveLen="428">0.00220284008812741</DataPt>
+      <DataPt WaveLen="429">0.0024246686062816</DataPt>
+      <DataPt WaveLen="430">0.00259934056588905</DataPt>
+      <DataPt WaveLen="431">0.00281780172160576</DataPt>
+      <DataPt WaveLen="432">0.00303968411654749</DataPt>
+      <DataPt WaveLen="433">0.0032886960176411</DataPt>
+      <DataPt WaveLen="434">0.00354802721936447</DataPt>
+      <DataPt WaveLen="435">0.00382852340723829</DataPt>
+      <DataPt WaveLen="436">0.0041430111280669</DataPt>
+      <DataPt WaveLen="437">0.0044623498722623</DataPt>
+      <DataPt WaveLen="438">0.00483497762321926</DataPt>
+      <DataPt WaveLen="439">0.0051840025166068</DataPt>
+      <DataPt WaveLen="440">0.00563851965382001</DataPt>
+      <DataPt WaveLen="441">0.0060185743199024</DataPt>
+      <DataPt WaveLen="442">0.00642994559421928</DataPt>
+      <DataPt WaveLen="443">0.00681667010598827</DataPt>
+      <DataPt WaveLen="444">0.00713862788509396</DataPt>
+      <DataPt WaveLen="445">0.00738054810629877</DataPt>
+      <DataPt WaveLen="446">0.00753551148666904</DataPt>
+      <DataPt WaveLen="447">0.0076208150723582</DataPt>
+      <DataPt WaveLen="448">0.00754125583273467</DataPt>
+      <DataPt WaveLen="449">0.00730389137092959</DataPt>
+      <DataPt WaveLen="450">0.00705124758694897</DataPt>
+      <DataPt WaveLen="451">0.00671080538993139</DataPt>
+      <DataPt WaveLen="452">0.00631104167178556</DataPt>
+      <DataPt WaveLen="453">0.00588982119279776</DataPt>
+      <DataPt WaveLen="454">0.0055705088220375</DataPt>
+      <DataPt WaveLen="455">0.00521255559613472</DataPt>
+      <DataPt WaveLen="456">0.0049441284502331</DataPt>
+      <DataPt WaveLen="457">0.00469024213412516</DataPt>
+      <DataPt WaveLen="458">0.00446862717144524</DataPt>
+      <DataPt WaveLen="459">0.00432850695432385</DataPt>
+      <DataPt WaveLen="460">0.00415994425879208</DataPt>
+      <DataPt WaveLen="461">0.00402944669883814</DataPt>
+      <DataPt WaveLen="462">0.00387658070678597</DataPt>
+      <DataPt WaveLen="463">0.00372183282598859</DataPt>
+      <DataPt WaveLen="464">0.00358093980148482</DataPt>
+      <DataPt WaveLen="465">0.00345171362306684</DataPt>
+      <DataPt WaveLen="466">0.00329223214161102</DataPt>
+      <DataPt WaveLen="467">0.00316300662562829</DataPt>
+      <DataPt WaveLen="468">0.00301156096853544</DataPt>
+      <DataPt WaveLen="469">0.00290867841692277</DataPt>
+      <DataPt WaveLen="470">0.00281077774999404</DataPt>
+      <DataPt WaveLen="471">0.00274433533046552</DataPt>
+      <DataPt WaveLen="472">0.00268039380115419</DataPt>
+      <DataPt WaveLen="473">0.00266465509082701</DataPt>
+      <DataPt WaveLen="474">0.0026405971780535</DataPt>
+      <DataPt WaveLen="475">0.0026522355401504</DataPt>
+      <DataPt WaveLen="476">0.00267282676148211</DataPt>
+      <DataPt WaveLen="477">0.00272164433407553</DataPt>
+      <DataPt WaveLen="478">0.00275553037488565</DataPt>
+      <DataPt WaveLen="479">0.00280731297183137</DataPt>
+      <DataPt WaveLen="480">0.0028874219218982</DataPt>
+      <DataPt WaveLen="481">0.00297230015280177</DataPt>
+      <DataPt WaveLen="482">0.00307178381907888</DataPt>
+      <DataPt WaveLen="483">0.00316039777006987</DataPt>
+      <DataPt WaveLen="484">0.00326470319504346</DataPt>
+      <DataPt WaveLen="485">0.00339079943786654</DataPt>
+      <DataPt WaveLen="486">0.00348806302692956</DataPt>
+      <DataPt WaveLen="487">0.00363158360166988</DataPt>
+      <DataPt WaveLen="488">0.00377838986917081</DataPt>
+      <DataPt WaveLen="489">0.00392395836451259</DataPt>
+      <DataPt WaveLen="490">0.00406916735942126</DataPt>
+      <DataPt WaveLen="491">0.00423756539418956</DataPt>
+      <DataPt WaveLen="492">0.00440838160533563</DataPt>
+      <DataPt WaveLen="493">0.00457482176205582</DataPt>
+      <DataPt WaveLen="494">0.00475816196681215</DataPt>
+      <DataPt WaveLen="495">0.00490662878833237</DataPt>
+      <DataPt WaveLen="496">0.00507369874153204</DataPt>
+      <DataPt WaveLen="497">0.00524585584431875</DataPt>
+      <DataPt WaveLen="498">0.00542272423299789</DataPt>
+      <DataPt WaveLen="499">0.00556803544474688</DataPt>
+      <DataPt WaveLen="500">0.00571577587280987</DataPt>
+      <DataPt WaveLen="501">0.00587693243909497</DataPt>
+      <DataPt WaveLen="502">0.00602765309304991</DataPt>
+      <DataPt WaveLen="503">0.00616772799654409</DataPt>
+      <DataPt WaveLen="504">0.00630168775804859</DataPt>
+      <DataPt WaveLen="505">0.00644183117353174</DataPt>
+      <DataPt WaveLen="506">0.00658177038284892</DataPt>
+      <DataPt WaveLen="507">0.00669096313090615</DataPt>
+      <DataPt WaveLen="508">0.00683824570841711</DataPt>
+      <DataPt WaveLen="509">0.00695753446236548</DataPt>
+      <DataPt WaveLen="510">0.00706379046667261</DataPt>
+      <DataPt WaveLen="511">0.00715967740220617</DataPt>
+      <DataPt WaveLen="512">0.00726853602088322</DataPt>
+      <DataPt WaveLen="513">0.00736737610758895</DataPt>
+      <DataPt WaveLen="514">0.00747003949494225</DataPt>
+      <DataPt WaveLen="515">0.00757475858053932</DataPt>
+      <DataPt WaveLen="516">0.00763612163651573</DataPt>
+      <DataPt WaveLen="517">0.00771071237864444</DataPt>
+      <DataPt WaveLen="518">0.00781108659203517</DataPt>
+      <DataPt WaveLen="519">0.00789344058762297</DataPt>
+      <DataPt WaveLen="520">0.00796423032930068</DataPt>
+      <DataPt WaveLen="521">0.00805022928943437</DataPt>
+      <DataPt WaveLen="522">0.00812850563164538</DataPt>
+      <DataPt WaveLen="523">0.00819320048221416</DataPt>
+      <DataPt WaveLen="524">0.00826966339112318</DataPt>
+      <DataPt WaveLen="525">0.0083459680320803</DataPt>
+      <DataPt WaveLen="526">0.0084215308723832</DataPt>
+      <DataPt WaveLen="527">0.00848675623545765</DataPt>
+      <DataPt WaveLen="528">0.00856378708730266</DataPt>
+      <DataPt WaveLen="529">0.00863885343812401</DataPt>
+      <DataPt WaveLen="530">0.00871662774479958</DataPt>
+      <DataPt WaveLen="531">0.00876395407171147</DataPt>
+      <DataPt WaveLen="532">0.00886438038545332</DataPt>
+      <DataPt WaveLen="533">0.00893382660113371</DataPt>
+      <DataPt WaveLen="534">0.00898912493992011</DataPt>
+      <DataPt WaveLen="535">0.00907953321373906</DataPt>
+      <DataPt WaveLen="536">0.00914187666381628</DataPt>
+      <DataPt WaveLen="537">0.00922549313961563</DataPt>
+      <DataPt WaveLen="538">0.00931107879622762</DataPt>
+      <DataPt WaveLen="539">0.00935596239571783</DataPt>
+      <DataPt WaveLen="540">0.009473347318547</DataPt>
+      <DataPt WaveLen="541">0.00955170597100734</DataPt>
+      <DataPt WaveLen="542">0.0096442413822175</DataPt>
+      <DataPt WaveLen="543">0.00973409490063775</DataPt>
+      <DataPt WaveLen="544">0.00982059566292419</DataPt>
+      <DataPt WaveLen="545">0.00991429948105387</DataPt>
+      <DataPt WaveLen="546">0.0100127083340804</DataPt>
+      <DataPt WaveLen="547">0.0101268481599514</DataPt>
+      <DataPt WaveLen="548">0.0102187505708159</DataPt>
+      <DataPt WaveLen="549">0.0103369631304772</DataPt>
+      <DataPt WaveLen="550">0.0104810550811359</DataPt>
+      <DataPt WaveLen="551">0.0105409298639579</DataPt>
+      <DataPt WaveLen="552">0.01069570755751</DataPt>
+      <DataPt WaveLen="553">0.0108216698659847</DataPt>
+      <DataPt WaveLen="554">0.0109094119587336</DataPt>
+      <DataPt WaveLen="555">0.0110690762127103</DataPt>
+      <DataPt WaveLen="556">0.0112047468000948</DataPt>
+      <DataPt WaveLen="557">0.0113513387989079</DataPt>
+      <DataPt WaveLen="558">0.0114747842962381</DataPt>
+      <DataPt WaveLen="559">0.0116237667545815</DataPt>
+      <DataPt WaveLen="560">0.0117859052024219</DataPt>
+      <DataPt WaveLen="561">0.0119187501090717</DataPt>
+      <DataPt WaveLen="562">0.0120510253100598</DataPt>
+      <DataPt WaveLen="563">0.0121854361589693</DataPt>
+      <DataPt WaveLen="564">0.0123122579877604</DataPt>
+      <DataPt WaveLen="565">0.0124815739544171</DataPt>
+      <DataPt WaveLen="566">0.0126332043209174</DataPt>
+      <DataPt WaveLen="567">0.0127868514456537</DataPt>
+      <DataPt WaveLen="568">0.0129571074557331</DataPt>
+      <DataPt WaveLen="569">0.0130621868630243</DataPt>
+      <DataPt WaveLen="570">0.0132337073138273</DataPt>
+      <DataPt WaveLen="571">0.0133817190804349</DataPt>
+      <DataPt WaveLen="572">0.0135244454145714</DataPt>
+      <DataPt WaveLen="573">0.0136708590098974</DataPt>
+      <DataPt WaveLen="574">0.01382611673023</DataPt>
+      <DataPt WaveLen="575">0.0139511895133777</DataPt>
+      <DataPt WaveLen="576">0.0140791550922935</DataPt>
+      <DataPt WaveLen="577">0.0142379563378693</DataPt>
+      <DataPt WaveLen="578">0.0144078189423995</DataPt>
+      <DataPt WaveLen="579">0.0145376511043986</DataPt>
+      <DataPt WaveLen="580">0.0146758334454659</DataPt>
+      <DataPt WaveLen="581">0.014813198899853</DataPt>
+      <DataPt WaveLen="582">0.0149245079407592</DataPt>
+      <DataPt WaveLen="583">0.0150568915360079</DataPt>
+      <DataPt WaveLen="584">0.0151912449931912</DataPt>
+      <DataPt WaveLen="585">0.0153268140805962</DataPt>
+      <DataPt WaveLen="586">0.0154531379322568</DataPt>
+      <DataPt WaveLen="587">0.0155563024792294</DataPt>
+      <DataPt WaveLen="588">0.0156415741608934</DataPt>
+      <DataPt WaveLen="589">0.0157066142255635</DataPt>
+      <DataPt WaveLen="590">0.0158363354388377</DataPt>
+      <DataPt WaveLen="591">0.0159129346003872</DataPt>
+      <DataPt WaveLen="592">0.0159359480513462</DataPt>
+      <DataPt WaveLen="593">0.0160246024296603</DataPt>
+      <DataPt WaveLen="594">0.016040696970641</DataPt>
+      <DataPt WaveLen="595">0.0160783456791229</DataPt>
+      <DataPt WaveLen="596">0.0161290153155015</DataPt>
+      <DataPt WaveLen="597">0.0161266667856188</DataPt>
+      <DataPt WaveLen="598">0.0161373600187044</DataPt>
+      <DataPt WaveLen="599">0.0161288463192709</DataPt>
+      <DataPt WaveLen="600">0.0161527311108175</DataPt>
+      <DataPt WaveLen="601">0.0161427952621182</DataPt>
+      <DataPt WaveLen="602">0.0161090169233162</DataPt>
+      <DataPt WaveLen="603">0.0160783096649795</DataPt>
+      <DataPt WaveLen="604">0.0160333299235055</DataPt>
+      <DataPt WaveLen="605">0.0159898802653385</DataPt>
+      <DataPt WaveLen="606">0.015899795319501</DataPt>
+      <DataPt WaveLen="607">0.0158889294529052</DataPt>
+      <DataPt WaveLen="608">0.015794916960717</DataPt>
+      <DataPt WaveLen="609">0.015713409085087</DataPt>
+      <DataPt WaveLen="610">0.015659452218753</DataPt>
+      <DataPt WaveLen="611">0.0155563104362942</DataPt>
+      <DataPt WaveLen="612">0.0154774095299907</DataPt>
+      <DataPt WaveLen="613">0.0153670359574467</DataPt>
+      <DataPt WaveLen="614">0.0152580917737086</DataPt>
+      <DataPt WaveLen="615">0.0151196078445502</DataPt>
+      <DataPt WaveLen="616">0.0150142287921291</DataPt>
+      <DataPt WaveLen="617">0.0149005777299559</DataPt>
+      <DataPt WaveLen="618">0.0147808384816439</DataPt>
+      <DataPt WaveLen="619">0.0146226793582459</DataPt>
+      <DataPt WaveLen="620">0.0144781886050632</DataPt>
+      <DataPt WaveLen="621">0.0143484323705119</DataPt>
+      <DataPt WaveLen="622">0.0141878541724614</DataPt>
+      <DataPt WaveLen="623">0.0140110738936142</DataPt>
+      <DataPt WaveLen="624">0.013851342623736</DataPt>
+      <DataPt WaveLen="625">0.0136789456530129</DataPt>
+      <DataPt WaveLen="626">0.0135090231329249</DataPt>
+      <DataPt WaveLen="627">0.0133223666538045</DataPt>
+      <DataPt WaveLen="628">0.0131408576359607</DataPt>
+      <DataPt WaveLen="629">0.0129479421558107</DataPt>
+      <DataPt WaveLen="630">0.0127619254276942</DataPt>
+      <DataPt WaveLen="631">0.0125873735194897</DataPt>
+      <DataPt WaveLen="632">0.0123760367616336</DataPt>
+      <DataPt WaveLen="633">0.0122133141075986</DataPt>
+      <DataPt WaveLen="634">0.0119989557043828</DataPt>
+      <DataPt WaveLen="635">0.0118088446983719</DataPt>
+      <DataPt WaveLen="636">0.0115840468340202</DataPt>
+      <DataPt WaveLen="637">0.0114090618838105</DataPt>
+      <DataPt WaveLen="638">0.0112248401396536</DataPt>
+      <DataPt WaveLen="639">0.0110287672790045</DataPt>
+      <DataPt WaveLen="640">0.0108127118774989</DataPt>
+      <DataPt WaveLen="641">0.0106202681760721</DataPt>
+      <DataPt WaveLen="642">0.0104275116380686</DataPt>
+      <DataPt WaveLen="643">0.0102513095576694</DataPt>
+      <DataPt WaveLen="644">0.0100486062640346</DataPt>
+      <DataPt WaveLen="645">0.00985702324510069</DataPt>
+      <DataPt WaveLen="646">0.00965234982869136</DataPt>
+      <DataPt WaveLen="647">0.00948533920409643</DataPt>
+      <DataPt WaveLen="648">0.00928812458237806</DataPt>
+      <DataPt WaveLen="649">0.00910109341284185</DataPt>
+      <DataPt WaveLen="650">0.008896579825743</DataPt>
+      <DataPt WaveLen="651">0.00872272919371342</DataPt>
+      <DataPt WaveLen="652">0.0085332165147185</DataPt>
+      <DataPt WaveLen="653">0.00836244064665755</DataPt>
+      <DataPt WaveLen="654">0.00817225441974822</DataPt>
+      <DataPt WaveLen="655">0.00799003330133819</DataPt>
+      <DataPt WaveLen="656">0.00779117574726426</DataPt>
+      <DataPt WaveLen="657">0.00763658646010124</DataPt>
+      <DataPt WaveLen="658">0.00746490250839043</DataPt>
+      <DataPt WaveLen="659">0.00728174553495299</DataPt>
+      <DataPt WaveLen="660">0.00711622075739131</DataPt>
+      <DataPt WaveLen="661">0.00695226529392195</DataPt>
+      <DataPt WaveLen="662">0.00678487055028267</DataPt>
+      <DataPt WaveLen="663">0.00661919682030646</DataPt>
+      <DataPt WaveLen="664">0.00645880425076012</DataPt>
+      <DataPt WaveLen="665">0.00630546880784614</DataPt>
+      <DataPt WaveLen="666">0.00614740610286961</DataPt>
+      <DataPt WaveLen="667">0.00598153197802533</DataPt>
+      <DataPt WaveLen="668">0.00583295039800388</DataPt>
+      <DataPt WaveLen="669">0.00569010913686034</DataPt>
+      <DataPt WaveLen="670">0.005557836821647</DataPt>
+      <DataPt WaveLen="671">0.00541403822460523</DataPt>
+      <DataPt WaveLen="672">0.00525994674180192</DataPt>
+      <DataPt WaveLen="673">0.00513414560832349</DataPt>
+      <DataPt WaveLen="674">0.00499266100351383</DataPt>
+      <DataPt WaveLen="675">0.00487535057412878</DataPt>
+      <DataPt WaveLen="676">0.00474529077247302</DataPt>
+      <DataPt WaveLen="677">0.00461596238253788</DataPt>
+      <DataPt WaveLen="678">0.00449776891664116</DataPt>
+      <DataPt WaveLen="679">0.00437825908886008</DataPt>
+      <DataPt WaveLen="680">0.00426396134385869</DataPt>
+      <DataPt WaveLen="681">0.00414349814853881</DataPt>
+      <DataPt WaveLen="682">0.00403786546683971</DataPt>
+      <DataPt WaveLen="683">0.0039295794618655</DataPt>
+      <DataPt WaveLen="684">0.00382639402817159</DataPt>
+      <DataPt WaveLen="685">0.00371137707176763</DataPt>
+      <DataPt WaveLen="686">0.00360851205128331</DataPt>
+      <DataPt WaveLen="687">0.003509896886711</DataPt>
+      <DataPt WaveLen="688">0.00341616304900308</DataPt>
+      <DataPt WaveLen="689">0.00332406390139595</DataPt>
+      <DataPt WaveLen="690">0.0032319207290903</DataPt>
+      <DataPt WaveLen="691">0.0031416725046839</DataPt>
+      <DataPt WaveLen="692">0.0030525381604033</DataPt>
+      <DataPt WaveLen="693">0.00296961338629041</DataPt>
+      <DataPt WaveLen="694">0.00286965088698552</DataPt>
+      <DataPt WaveLen="695">0.00279472705200876</DataPt>
+      <DataPt WaveLen="696">0.00271500032235816</DataPt>
+      <DataPt WaveLen="697">0.00263453728931633</DataPt>
+      <DataPt WaveLen="698">0.00255489199084401</DataPt>
+      <DataPt WaveLen="699">0.00247987402133191</DataPt>
+      <DataPt WaveLen="700">0.00240574641771194</DataPt>
+      <DataPt WaveLen="701">0.00233851114844627</DataPt>
+      <DataPt WaveLen="702">0.00227139022203382</DataPt>
+      <DataPt WaveLen="703">0.00220312238921574</DataPt>
+      <DataPt WaveLen="704">0.00213608563014917</DataPt>
+      <DataPt WaveLen="705">0.00207265957809612</DataPt>
+      <DataPt WaveLen="706">0.00201212548086331</DataPt>
+      <DataPt WaveLen="707">0.00195121948024533</DataPt>
+      <DataPt WaveLen="708">0.00189622799185267</DataPt>
+      <DataPt WaveLen="709">0.0018392226258006</DataPt>
+      <DataPt WaveLen="710">0.00178126129927302</DataPt>
+      <DataPt WaveLen="711">0.0017307678451915</DataPt>
+      <DataPt WaveLen="712">0.00168191745543974</DataPt>
+      <DataPt WaveLen="713">0.00163443999625095</DataPt>
+      <DataPt WaveLen="714">0.00158356737766279</DataPt>
+      <DataPt WaveLen="715">0.00154000267439579</DataPt>
+      <DataPt WaveLen="716">0.00149301719120513</DataPt>
+      <DataPt WaveLen="717">0.0014462542362956</DataPt>
+      <DataPt WaveLen="718">0.00140325631256853</DataPt>
+      <DataPt WaveLen="719">0.00136323266855063</DataPt>
+      <DataPt WaveLen="720">0.0013232669019505</DataPt>
+      <DataPt WaveLen="721">0.00128098113319889</DataPt>
+      <DataPt WaveLen="722">0.00124103170577954</DataPt>
+      <DataPt WaveLen="723">0.00121098137110824</DataPt>
+      <DataPt WaveLen="724">0.00116659854774424</DataPt>
+      <DataPt WaveLen="725">0.00113367155177629</DataPt>
+      <DataPt WaveLen="726">0.00110001597535538</DataPt>
+      <DataPt WaveLen="727">0.00106817437660148</DataPt>
+      <DataPt WaveLen="728">0.00103681841152713</DataPt>
+      <DataPt WaveLen="729">0.00100172672997483</DataPt>
+      <DataPt WaveLen="730">0.000971665008212972</DataPt>
+      <DataPt WaveLen="731">0.000943148432772887</DataPt>
+      <DataPt WaveLen="732">0.000912838176067787</DataPt>
+      <DataPt WaveLen="733">0.000883701319655875</DataPt>
+      <DataPt WaveLen="734">0.000854454300989645</DataPt>
+      <DataPt WaveLen="735">0.000829830121588602</DataPt>
+      <DataPt WaveLen="736">0.000808027112785431</DataPt>
+      <DataPt WaveLen="737">0.000779642025192194</DataPt>
+      <DataPt WaveLen="738">0.000756265986216033</DataPt>
+      <DataPt WaveLen="739">0.000736699193191213</DataPt>
+      <DataPt WaveLen="740">0.000709728603376826</DataPt>
+      <DataPt WaveLen="741">0.000690344515761049</DataPt>
+      <DataPt WaveLen="742">0.000670315592969663</DataPt>
+      <DataPt WaveLen="743">0.000650833603444959</DataPt>
+      <DataPt WaveLen="744">0.000630504365774325</DataPt>
+      <DataPt WaveLen="745">0.000610953236945521</DataPt>
+      <DataPt WaveLen="746">0.000590469639697558</DataPt>
+      <DataPt WaveLen="747">0.000572516908378898</DataPt>
+      <DataPt WaveLen="748">0.000557105538643409</DataPt>
+      <DataPt WaveLen="749">0.000540576116242017</DataPt>
+      <DataPt WaveLen="750">0.000523209558349223</DataPt>
+      <DataPt WaveLen="751">0.000505785105130127</DataPt>
+      <DataPt WaveLen="752">0.000492954852340755</DataPt>
+      <DataPt WaveLen="753">0.000475524422260552</DataPt>
+      <DataPt WaveLen="754">0.000462941621440371</DataPt>
+      <DataPt WaveLen="755">0.000450226501597225</DataPt>
+      <DataPt WaveLen="756">0.000436585803907913</DataPt>
+      <DataPt WaveLen="757">0.00042360684660351</DataPt>
+      <DataPt WaveLen="758">0.000412950091245012</DataPt>
+      <DataPt WaveLen="759">0.000399313040604989</DataPt>
+      <DataPt WaveLen="760">0.000385249775366597</DataPt>
+      <DataPt WaveLen="761">0.000373381662108141</DataPt>
+      <DataPt WaveLen="762">0.000360538345025492</DataPt>
+      <DataPt WaveLen="763">0.000348686432775621</DataPt>
+      <DataPt WaveLen="764">0.000343459456554116</DataPt>
+      <DataPt WaveLen="765">0.000330837854108106</DataPt>
+      <DataPt WaveLen="766">0.000320734061381568</DataPt>
+      <DataPt WaveLen="767">0.00030888322558395</DataPt>
+      <DataPt WaveLen="768">0.000300470217768892</DataPt>
+      <DataPt WaveLen="769">0.000294365541063868</DataPt>
+      <DataPt WaveLen="770">0.000283774897220791</DataPt>
+      <DataPt WaveLen="771">0.000276004543407517</DataPt>
+      <DataPt WaveLen="772">0.000268292909792599</DataPt>
+      <DataPt WaveLen="773">0.00025870294016447</DataPt>
+      <DataPt WaveLen="774">0.000250766220681168</DataPt>
+      <DataPt WaveLen="775">0.000241349697889196</DataPt>
+      <DataPt WaveLen="776">0.000235857990295059</DataPt>
+      <DataPt WaveLen="777">0.000229928109065597</DataPt>
+      <DataPt WaveLen="778">0.000224550123460547</DataPt>
+      <DataPt WaveLen="779">0.000218061806952425</DataPt>
+      <DataPt WaveLen="780">0.000209676706618555</DataPt>
+      <DataPt WaveLen="781">0.000203205099060289</DataPt>
+      <DataPt WaveLen="782">0.000196985931607728</DataPt>
+      <DataPt WaveLen="783">0.000191265599934092</DataPt>
+      <DataPt WaveLen="784">0.000186178209768332</DataPt>
+      <DataPt WaveLen="785">0.000181913247577069</DataPt>
+      <DataPt WaveLen="786">0.000175488095978836</DataPt>
+      <DataPt WaveLen="787">0.000169666179301344</DataPt>
+      <DataPt WaveLen="788">0.00016517941314001</DataPt>
+      <DataPt WaveLen="789">0.000162451592370715</DataPt>
+      <DataPt WaveLen="790">0.000154297082723844</DataPt>
+      <DataPt WaveLen="791">0.000153727488491356</DataPt>
+      <DataPt WaveLen="792">0.000148899156539125</DataPt>
+      <DataPt WaveLen="793">0.00014330053064403</DataPt>
+      <DataPt WaveLen="794">0.000135613540098262</DataPt>
+      <DataPt WaveLen="795">0.000134277395090793</DataPt>
+      <DataPt WaveLen="796">0.000129706593390171</DataPt>
+      <DataPt WaveLen="797">0.000125719917594892</DataPt>
+      <DataPt WaveLen="798">0.00012563507076244</DataPt>
+      <DataPt WaveLen="799">0.00011898336921302</DataPt>
+      <DataPt WaveLen="800">0.000116081766290579</DataPt>
+      <DataPt WaveLen="801">0.000112438214361019</DataPt>
+      <DataPt WaveLen="802">0.000110002946424126</DataPt>
+      <DataPt WaveLen="803">0.000106401622334816</DataPt>
+      <DataPt WaveLen="804">0.000104205500684523</DataPt>
+      <DataPt WaveLen="805">0.000100995822074127</DataPt>
+      <DataPt WaveLen="806">9.78162073100933E-05</DataPt>
+      <DataPt WaveLen="807">9.55697949059379E-05</DataPt>
+      <DataPt WaveLen="808">9.2761197862526E-05</DataPt>
+      <DataPt WaveLen="809">9.08068687391991E-05</DataPt>
+      <DataPt WaveLen="810">8.84464856396266E-05</DataPt>
+      <DataPt WaveLen="811">8.46043021080242E-05</DataPt>
+      <DataPt WaveLen="812">8.47282733198998E-05</DataPt>
+      <DataPt WaveLen="813">8.2184839556071E-05</DataPt>
+      <DataPt WaveLen="814">7.69791533977185E-05</DataPt>
+      <DataPt WaveLen="815">7.50190039089276E-05</DataPt>
+      <DataPt WaveLen="816">7.39032033073427E-05</DataPt>
+      <DataPt WaveLen="817">7.20043771163618E-05</DataPt>
+      <DataPt WaveLen="818">7.05702756335396E-05</DataPt>
+      <DataPt WaveLen="819">7.08167624962767E-05</DataPt>
+      <DataPt WaveLen="820">6.98764368255139E-05</DataPt>
+      <DataPt WaveLen="821">6.58805479587578E-05</DataPt>
+      <DataPt WaveLen="822">6.2754559514568E-05</DataPt>
+      <DataPt WaveLen="823">5.96265267519573E-05</DataPt>
+      <DataPt WaveLen="824">6.04020573392527E-05</DataPt>
+      <DataPt WaveLen="825">6.06475522541285E-05</DataPt>
+      <DataPt WaveLen="826">5.96524103922155E-05</DataPt>
+      <DataPt WaveLen="827">5.70538392675886E-05</DataPt>
+      <DataPt WaveLen="828">5.50112100140669E-05</DataPt>
+      <DataPt WaveLen="829">5.2143726171904E-05</DataPt>
+      <DataPt WaveLen="830">5.09485589886661E-05</DataPt>
+      <DataPt WaveLen="831">5.07149009778905E-05</DataPt>
+      <DataPt WaveLen="832">4.95995011479808E-05</DataPt>
+      <DataPt WaveLen="833">4.87516230438857E-05</DataPt>
+      <DataPt WaveLen="834">4.85043476541593E-05</DataPt>
+      <DataPt WaveLen="835">4.49882159618075E-05</DataPt>
+      <DataPt WaveLen="836">4.21345033157992E-05</DataPt>
+      <DataPt WaveLen="837">4.19442335740223E-05</DataPt>
+      <DataPt WaveLen="838">4.16970205829205E-05</DataPt>
+      <DataPt WaveLen="839">4.21677683162702E-05</DataPt>
+      <DataPt WaveLen="840">4.06380550637992E-05</DataPt>
+      <DataPt WaveLen="841">3.99399886114887E-05</DataPt>
+      <DataPt WaveLen="842">3.78311557645784E-05</DataPt>
+      <DataPt WaveLen="843">3.71241740439848E-05</DataPt>
+      <DataPt WaveLen="844">3.59444437403241E-05</DataPt>
+      <DataPt WaveLen="845">3.50217072868298E-05</DataPt>
+      <DataPt WaveLen="846">3.62922716190081E-05</DataPt>
+      <DataPt WaveLen="847">3.57676479556526E-05</DataPt>
+      <DataPt WaveLen="848">3.40307343916539E-05</DataPt>
+      <DataPt WaveLen="849">3.29835041718164E-05</DataPt>
+      <DataPt WaveLen="850">3.06820498666874E-05</DataPt>
+    </SpectralData>
+  </ScanData>
+</NewDataSet>
